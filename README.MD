@@ -1,8 +1,8 @@
 # 🚀 API de Inferência - Bank Marketing
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue)[cite: 1]
-![Flask](https://img.shields.io/badge/Flask-API-black)[cite: 1]
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E)[cite: 1]
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![Flask](https://img.shields.io/badge/Flask-API-black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E)
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 
 ## 📌 Visão Geral (Descrição do Problema)
@@ -14,7 +14,7 @@ O objetivo de negócio da API é atuar no setor financeiro, prevendo se um clien
 
 ## 📊 Dataset e Variável Alvo
 Os dados utilizados para o treinamento do modelo são oriundos do dataset público **Bank Marketing**, extraído do UCI Machine Learning Repository.
-* 🔗 **Fonte dos Dados:** [Bank Marketing Data Set - UCI](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)[cite: 2]
+* 🔗 **Fonte dos Dados:** [Bank Marketing Data Set - UCI](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
 A **variável alvo** (*target*) prevista pelo modelo é a `y`, que indica a conversão final do cliente, estruturada da seguinte forma:
 * `0`: Cliente **não** realizou o depósito (Representa a classe "no").
